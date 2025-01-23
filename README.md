@@ -1,4 +1,4 @@
-# Online Course Assessment Feature
+# Django Course Manager
 
 ## Project Overview
 
